@@ -1,0 +1,6 @@
+setuptools
+pandas
+seaborn
+matplotlib
+numpy
+-e .  # trigrring setup.py for local package installation
