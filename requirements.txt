@@ -3,4 +3,7 @@ pandas
 seaborn
 matplotlib
 numpy
--e .  # trigrring setup.py for local package installation
+scikit-learn
+catboost
+xgboost
+# -e .  # trigrring setup.py for local package installation
