@@ -7,3 +7,4 @@ scikit-learn
 catboost
 xgboost
 # -e .  # trigrring setup.py for local package installation
+dill
